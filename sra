@@ -1,4 +1,3 @@
-
 --[[ Original Anti-Idle & Services ]]--
 
 local VirtualUser = game:GetService('VirtualUser')
